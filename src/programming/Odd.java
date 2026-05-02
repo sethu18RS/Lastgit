@@ -7,6 +7,10 @@ public class Odd {
 		if(no%2==0)
 		{
 			System.out.println(no);
+			System.out.println("dance");
+			System.out.println("play");
+			System.out.println("run");
+			System.out.println("walk");
 		}
 
 	}
