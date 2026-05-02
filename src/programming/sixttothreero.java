@@ -8,6 +8,13 @@ public class sixttothreero {
 			System.out.println("naan");
 			System.out.println("chicken");
 			System.out.println("mutton");
+			
+			
+			//another
+			
+			System.out.println("parotta");
+			System.out.println("chapathi");
+			System.out.println("biriyani");
 		}
 	}
 

@@ -8,6 +8,9 @@ public class tentoone {
 			while (i>=1)
 			{
 			System.out.println(i);
+			System.out.println("koo");
+			System.out.println("hoo");
+			System.out.println("roo");
 			
 			i--;
 			}
