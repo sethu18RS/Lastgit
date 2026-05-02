@@ -11,6 +11,14 @@ public class Odd {
 			System.out.println("play");
 			System.out.println("run");
 			System.out.println("walk");
+			
+			
+			//
+			System.out.println(no);
+			System.out.println("dance");
+			System.out.println("play");
+			System.out.println("run");
+			System.out.println("walk");
 		}
 
 	}
